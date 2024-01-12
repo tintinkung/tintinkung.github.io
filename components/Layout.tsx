@@ -95,7 +95,7 @@ export const Layout: React.FC<Props> = ({
                             : "dark:bg-background-dark bg-background"
                     )}
                 >
-                    <div className="h-[4rem] flex flex-col justify-center max-w-8xl mx-auto p-4 md:px-8">
+                    <div className="h-[7.5rem] flex flex-col justify-center max-w-8xl mx-auto p-4 md:px-8">
                         <Nav
                             title={nav.title}
                             logo={nav.logo}
@@ -108,6 +108,7 @@ export const Layout: React.FC<Props> = ({
                         >
                             {showSidebar && <SiteToc currentPath={urlPath} nav={siteMap} />}
                         </Nav>
+                        <div className="h2">@tintinkung</div>
                     </div>
                 </div>
                 {/* wrapper for sidebar, main content and ToC */}
