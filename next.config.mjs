@@ -1,6 +1,6 @@
 export default {
   eslint: {
-    ignoreDuringBuilds: true,
+    ignoreDuringBuilds: false,
   },
   webpack: (config) => {
     config.infrastructureLogging = {
