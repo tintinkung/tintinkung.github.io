@@ -2,6 +2,26 @@
 
 Hello! I'm Sukrit Boonin, Over the past three years, I've immersed myself in the world of technology, coding, and problem-solving. This portfolio is a glimpse into my experiences, challenges, project representing a chapter in my evolving story.
 
+
+## Background
+
+> Gmail: tintinkung.lemonade@gmail.com
+> Github: [github.com/tintinkung](https://github.com/tintinkung)
+
+[![Tintinkung's GitHub stats](https://github-readme-stats.vercel.app/api?username=tintinkung&count_privates=true&show_icons=true&theme=onedark&count_private)](https://github.com/anuraghazra/github-readme-stats)
+
+<div className="grid gap-2 grid-cols-2 grid-rows-1">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img className="my-0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintinkung&amp;theme=onedark&amp;count_privates=true&amp;show_icons=true&amp;langs_count=5" alt="Top Langs" />
+    </a>
+    <div className="border-solid border border-[#d0cfd0] bg-[#0d1117] rounded-md text-center text-lg">
+        <div className="mt-3 mb-2"><strong >Contributions</strong></div>
+        <img className="internal new my-0" src="/projects/github/2021g.png" alt="2021 Contribution" />
+        <img className="internal new my-0" src="/projects/github/2022g.png" alt="2022 Contribution" />
+        <img className="internal new my-0" src="/projects/github/2023g.png" alt="2023 Contribution" />
+    </div>
+</div>
+
 ---
 
 ## My works from the past 3 years
@@ -65,6 +85,8 @@ Hello! I'm Sukrit Boonin, Over the past three years, I've immersed myself in the
 > [asean.buildtheearth.asia](https://asean.buildtheearth.asia)
 > [github.com/ASEAN-Build-The-Earth](https://github.com/ASEAN-Build-The-Earth)
 > [github.com/tintinkung](https://github.com/tintinkung)
+
+---
 
 ## [In Progress](https://deploy-preview-4--twofeetcat.netlify.app/)
 
